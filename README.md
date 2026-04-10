@@ -195,15 +195,11 @@ I write about product management, AI/ML, and building scalable systems.
 
 ## 💬 Let's Connect
 
-**Open to:** Product Management roles • Technical PM positions • Full-Stack opportunities • AI/ML product roles • Founding team positions
+*Building something cool? hmu here*
 
-*Building something cool? Need a technical PM who can code? Want to discuss product strategy, AI integration, or late-night architecture decisions?*
-
-[![Email](https://img.shields.io/badge/Email-Let's%20Talk-E10600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/merahulkulkarni)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xhanthis)
 [![Medium](https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@xhanthis)
-[![Schedule Call](https://img.shields.io/badge/Calendar-Schedule%20Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendar.app.google/MTFKVZnChMqd8wiv7)
 
 ---
 
