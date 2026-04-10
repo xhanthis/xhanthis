@@ -170,9 +170,6 @@ Building with AI tools (Claude Code, Aider, LLMs). Integrating ML into products.
 **📊 Data-Driven & Strategic**  
 Every decision backed by research, analytics, and market analysis. SWOT, TAM/SAM/SOM, user research, A/B testing — I speak the language of growth.
 
-**🌙 High-Output Developer**  
-Night-owl schedule. 2AM is when the magic happens. Best code and product specs written when the world sleeps.
-
 ---
 
 ## 📝 Writing & Thought Leadership
