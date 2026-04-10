@@ -51,7 +51,7 @@ SaffronStays, now mobile — 10x better experiences, everywhere.
 <td width="33%">
 
 **💼 HireDM**  
-*Founder & Technical Lead*
+*Founder*
 
 Hiring simplified for Founders & Startups.
 
@@ -64,7 +64,7 @@ Hiring simplified for Founders & Startups.
 <td width="33%">
 
 **🦉 ownspce**  
-*Founder & Developer*
+*Founder*
 
 Privacy-first productivity for India. 10x cheaper than Notion.
 
