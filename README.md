@@ -71,7 +71,7 @@ Privacy-first productivity for India. 10x cheaper than Notion.
 `React Native` `Go`  
 `CR-SQLite` `Local-First`
 
-*In Development*
+[Download Beta →](https://ownspce.com)
 
 </td>
 </tr>
@@ -148,7 +148,9 @@ Privacy-first productivity for India. 10x cheaper than Notion.
 
 ## 🎓 Education & Experience
 
-**IIT Kanpur** • **VIIT Pune**
+**Education:**
+- **IIT Kanpur** — MTech, AI&ML
+- **VIIT Pune** — BTech, Computer Engineering
 
 **Work Experience:**
 - **SaffronStays** — Senior Product Manager (Product & Tech)
@@ -183,7 +185,7 @@ I write about product management, AI/ML, and building scalable systems.
 
 ## 🌍 Beyond Work
 
-📍 Based in Pune/Sambhajinagar → Relocating to Bengaluru  
+📍 Based in Pune, India.
 🤝 Ambivert who loves discussing tech, product, Gen Z culture, and the future  
 🏎️ F1 (Red Bull Racing) • 🏏 Cricket (RCB)
 
